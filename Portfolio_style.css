@@ -1,0 +1,20 @@
+.containerFlex{
+    background-color: #DFF5FF;
+    display: flex;
+    color:white;
+    justify-content: center;
+    height:50rem;
+    align-items: center;
+}
+.profileImg{
+    margin-right: 2%;
+}
+.containerCollege{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+}
