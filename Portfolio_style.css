@@ -1,3 +1,6 @@
+.body{
+    zoom:80%;
+}
 .containerFlex{
     background-color: #DFF5FF;
     display: flex;
